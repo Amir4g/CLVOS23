@@ -37,6 +37,15 @@ The details of dataset are provided in following table.
 | skiing      | 5                    | 692       | 11       |
 | skiing-long | 9                    | 903       | 19       |
 
+## Videos in YouTube
+Follwing videos from YouTube are used for creating CLVOS23:
+
+[car](https://www.youtube.com/watch?v=R70NIzexFOM),
+[dog](https://www.youtube.com/watch?v=3JtnAEIPuoo),
+[parkour](https://www.youtube.com/watch?v=vuedCe4r1-4),
+[skating](https://www.youtube.com/watch?v=S-csVMqf2rc),
+[skiing](https://www.youtube.com/watch?v=krkkTuNxZt8&t=2s),
+[skiing-long](https://www.youtube.com/watch?v=XnQK4oVuFAk&t=622s).
 
 ## BibTeX
 Please consider to cite CLVOS23 and Long Videos (for rat, dressage, and blueboy) if it helps your research.
@@ -60,7 +69,5 @@ Please consider to cite CLVOS23 and Long Videos (for rat, dressage, and blueboy)
 ```
 
 ## License
-Follwing videos from YouTube are used for creating CLVOS23:
-
 
 CLVOS23 is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License. The data of CLVOS23 is released for non-commercial research purpose only.
