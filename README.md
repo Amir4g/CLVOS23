@@ -22,43 +22,24 @@ The frames of three videos [rat,dressage,blueboy] are from the Long Videos datas
 The dataset consists of two parts: `JPEGImages` which holds the frame images, and `Annotations` which contains the corresponding segmentation masks. The frame images are numbered using five-digit numbers. Annotations are saved in color-pattlate mode PNGs like [DAVIS](https://davischallenge.org/).
 
 The provided annotations are for the validation set and include the first and the last frame.
+The details of dataset are provided in following table.
 
-```
-<train/valid.tar>
-│
-├── Annotations
-│ │ 
-│ ├── <video_name_1>
-│ │ ├── 00000.png
-│ │ ├── 00001.png
-│ │ └── ...
-│ │ 
-│ ├── <video_name_2>
-│ │ ├── 00000.png
-│ │ ├── 00001.png
-│ │ └── ...
-│ │ 
-│ ├── <video_name_...>
-│ 
-└── JPEGImages
-  │ 
-  ├── <video_name_1>
-  │ ├── 00000.jpg
-  │ ├── 00001.jpg
-  │ └── ...
-  │ 
-  ├── <video_name_2>
-  │ ├── 00000.jpg
-  │ ├── 00001.jpg
-  │ └── ...
-  │ 
-  └── <video_name_...>
 
-```
+| Video name  | \#Sub-chunks (tasks) | \#Frames | \#Labels |
+|-------------|----------------------|-----------|----------|
+| dressage    | 23                   | 3589      | 43       |
+| blueboy     | 27                   | 1416      | 47       |
+| rat         | 22                   | 2606      | 42       |
+| car         | 18                   | 1109      | 37       |
+| dog         | 12                   | 891       | 25       |
+| parkour     | 24                   | 1578      | 49       |
+| skating     | 5                    | 778       | 11       |
+| skiing      | 5                    | 692       | 11       |
+| skiing-long | 9                    | 903       | 19       |
 
 
 ## BibTeX
-Please consider to cite CLVOS23 and Long Videos if it helps your research.
+Please consider to cite CLVOS23 and Long Videos (for rat, dressage, and blueboy) if it helps your research.
 
 ```latex
 @article{CLVOS23,
