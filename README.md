@@ -25,17 +25,17 @@ The provided annotations are for the validation set and include the first and th
 The details of dataset are provided in following table.
 
 
-| Video name  | \#Sub-chunks (tasks) | \#Frames | \#Labels |
-|-------------|----------------------|-----------|----------|
-| dressage    | 23                   | 3589      | 43       |
-| blueboy     | 27                   | 1416      | 47       |
-| rat         | 22                   | 2606      | 42       |
-| car         | 18                   | 1109      | 37       |
-| dog         | 12                   | 891       | 25       |
-| parkour     | 24                   | 1578      | 49       |
-| skating     | 5                    | 778       | 11       |
-| skiing      | 5                    | 692       | 11       |
-| skiing-long | 9                    | 903       | 19       |
+| Video name  | \#Sub-chunks (tasks) | \#Frames | \#Annotated frames |
+|-------------|----------------------|-----------|-------------------|
+| dressage    | 23                   | 3589      | 43                |
+| blueboy     | 27                   | 1416      | 47                |
+| rat         | 22                   | 2606      | 42                |
+| car         | 18                   | 1109      | 37                |
+| dog         | 12                   | 891       | 25                |
+| parkour     | 24                   | 1578      | 49                |
+| skating     | 5                    | 778       | 11                |
+| skiing      | 5                    | 692       | 11                |
+| skiing-long | 9                    | 903       | 19                |
 
 ## Videos in YouTube
 Follwing videos from YouTube are used to creat CLVOS23:
