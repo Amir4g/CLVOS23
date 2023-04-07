@@ -19,9 +19,9 @@ The frames of three videos [rat,dressage,blueboy] are from the Long Videos datas
 
 ## File Structure
 
-The dataset follows a similar structure as [DAVIS](https://davischallenge.org/). The dataset consists of two parts: `JPEGImages` which holds the frame images, and `Annotations` which contains the corresponding segmentation masks. The frame images are numbered using five-digit numbers. Annotations are saved in color-pattlate mode PNGs like DAVIS.
+The dataset consists of two parts: `JPEGImages` which holds the frame images, and `Annotations` which contains the corresponding segmentation masks. The frame images are numbered using five-digit numbers. Annotations are saved in color-pattlate mode PNGs like [DAVIS](https://davischallenge.org/).
 
-Please note that while annotations for all frames in the training set are provided, annotations for the validation set will only include the first frame.
+The provided annotations are for the validation set and include the first and the last frame.
 
 ```
 <train/valid.tar>
