@@ -1,4 +1,4 @@
-# CLVOS23: A benchmark dataset for addressing Continual Learning in VOS and evaluating VOS models on long videos. 
+## CLVOS23: A benchmark dataset for addressing Continual Learning in Video Object Segmentation (VOS) and evaluating VOS models on long videos. 
 
 **[📄[Arxiv]](https://arxiv.org/abs/2302.01872)**
 
@@ -38,7 +38,7 @@ The details of dataset are provided in following table.
 | skiing-long | 9                    | 903       | 19       |
 
 ## Videos in YouTube
-Follwing videos from YouTube are used for creating CLVOS23:
+Follwing videos from YouTube are used to creat CLVOS23:
 
 [car](https://www.youtube.com/watch?v=R70NIzexFOM),
 [dog](https://www.youtube.com/watch?v=3JtnAEIPuoo),
