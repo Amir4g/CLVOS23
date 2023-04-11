@@ -1,6 +1,7 @@
 ## CLVOS23: A benchmark dataset for addressing Continual Learning in Video Object Segmentation (VOS) and evaluating VOS models on long videos. 
 
 ***[🔥04.11.2023: Dataset has been released!]***
+
 **[📄[Arxiv]](https://arxiv.org/abs/2304.04259)**
 
 This repository contains information for the CLVOS23 dataset.
@@ -68,5 +69,7 @@ Please consider to cite CLVOS23 and Long Videos (for rat, dressage, and blueboy)
 ## License
 
 CLVOS23 is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
+
 [car, dog, parkour, skating, skiing, skiing-long] as you can see in the provided video links in youtube are under CC license in YouTube.
+
 [rat, dressage,blueboy] are under Long Videos dataset license.
