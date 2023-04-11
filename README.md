@@ -49,11 +49,13 @@ Follwing videos from YouTube are used to creat CLVOS23:
 Please consider to cite CLVOS23 and Long Videos (for rat, dressage, and blueboy) if it helps your research.
 
 ```latex
-@article{CLVOS23,
-  title={CLVOS23: A Long Video Object Segmentation Dataset for Continual Learning},
-  author={A. Nazemi, Z. Mostafa, P.Fieguth},
-  journal={arXiv preprint arXiv:2302.01872},
-  year={2023}
+@article{nazemi2023clvos23,
+      title={CLVOS23: A Long Video Object Segmentation Dataset for Continual Learning}, 
+      author={Amir Nazemi and Zeyad Moustafa and Paul Fieguth},
+      year={2023},
+      eprint={2304.04259},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 
 @article{liang2020video,
