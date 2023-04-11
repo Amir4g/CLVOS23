@@ -72,4 +72,4 @@ CLVOS23 is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licens
 
 [car, dog, parkour, skating, skiing, skiing-long] as you can see in the provided video links in youtube are under CC license in YouTube.
 
-[rat, dressage,blueboy] are under Long Videos dataset license.
+[rat, dressage, blueboy] are under Long Videos dataset license.
