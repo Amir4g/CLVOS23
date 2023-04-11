@@ -1,20 +1,17 @@
 ## CLVOS23: A benchmark dataset for addressing Continual Learning in Video Object Segmentation (VOS) and evaluating VOS models on long videos. 
 
-**[📄[Arxiv]](https://arxiv.org/abs/2302.01872)**
+***[🔥04.11.2023: Dataset has been released!]***
+**[📄[Arxiv]](https://arxiv.org/abs/2304.04259)**
 
 This repository contains information for the CLVOS23 dataset.
 
-
 ## Download
 
-The frames of three videos [rat,dressage,blueboy] are from the Long Videos dataset, and are available to download from [Long Videos](https://www.kaggle.com/datasets/gvclsu/long-videos).
-
-
-***[🔥04.07.2023: Dataset has been released!]***
+The frames of three videos [rat,dressage,blueboy] are from the Long Videos dataset, and are available to download separately from [Long Videos](https://www.kaggle.com/datasets/gvclsu/long-videos).
 
 ⬇️ Get the dataset from: 
 
- - ☁️ [***kaggle*** ](https://entuedu-my.sharepoint.com/:f:/g/personal/liuc0058_e_ntu_edu_sg/EjXSfDF7QEZApAVpFJ5rfdABkHCf0k2Va6VDfUy7rpabNw?e=9BVkrz)
+ - ☁️ [***kaggle*** ](https://www.kaggle.com/datasets/amir4d/clvos23)
 
 
 ## File Structure
@@ -70,4 +67,6 @@ Please consider to cite CLVOS23 and Long Videos (for rat, dressage, and blueboy)
 
 ## License
 
-CLVOS23 is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License. The data of CLVOS23 is released for non-commercial research purpose only.
+CLVOS23 is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
+[car, dog, parkour, skating, skiing, skiing-long] as you can see in the provided video links in youtube are under CC license in YouTube.
+[rat, dressage,blueboy] are under Long Videos dataset license.
