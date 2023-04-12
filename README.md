@@ -50,13 +50,12 @@ Please consider to cite CLVOS23 and Long Videos (for rat, dressage, and blueboy)
 
 ```latex
 @article{nazemi2023clvos23,
-      title={CLVOS23: A Long Video Object Segmentation Dataset for Continual Learning}, 
-      author={Amir Nazemi and Zeyad Moustafa and Paul Fieguth},
-      year={2023},
-      eprint={2304.04259},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+  title={CLVOS23: A Long Video Object Segmentation Dataset for Continual Learning},
+  author={Nazemi, Amir and Moustafa, Zeyad and Fieguth, Paul},
+  journal={arXiv preprint arXiv:2304.04259},
+  year={2023}
 }
+
 
 @article{liang2020video,
   title={Video object segmentation with adaptive feature bank and uncertain-region refinement},
